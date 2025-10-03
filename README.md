@@ -3,6 +3,7 @@
 This repository contains an analysis of chocolate sales, shipments, and product performance using **Excel (Power BI data model)**. It includes an Excel workbook with raw and dimension data, and a Power BI dashboard for visualization of key metrics.  
 
 ---
+![Dashboard Overview](https://github.com/tushkr3/Awesome-Chocolate-Sales-Analysis/blob/main/dashboard_overview.jpg)
 
 ## Repository Contents  
 
